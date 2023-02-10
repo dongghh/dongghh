@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-badge&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jquery-0769AD?style=flat-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p align="center">
