@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">    
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-the-badge&logo=amazon aws&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-the-badge&logo=amazon ec2&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-the-badge&logo=amazon rds&logoColor=white">
 </p>
 
 ## :mailbox_with_mail: Contacts
