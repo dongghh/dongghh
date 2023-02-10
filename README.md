@@ -3,8 +3,6 @@
 
 <div align="center">
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongghh%2Fhit-counter&count_bg=%2367D514&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongghh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongghh&layout=compact)](https://github.com/dongghh/github-readme-stats)
 
@@ -39,6 +37,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
+    
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongghh%2Fhit-counter&count_bg=%2367D514&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **dongghh/dongghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
