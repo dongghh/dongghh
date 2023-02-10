@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongghh&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongghh&layout=compact)](https://github.com/dongghh/github-readme-stats)
 
-## 🏻‍✔️ Tech Stack 
+## ✔️ Tech Stack 
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-the-badge&logo=Java&logoColor=white"/>
@@ -32,11 +32,11 @@
     <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-the-badge&logo=amazon rds&logoColor=white">
 </p>
 
-## :mailbox_with_mail: Contacts
+## ✔️ Contacts
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
-    ✔️
+    
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongghh%2Fhit-counter&count_bg=%2367D514&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
