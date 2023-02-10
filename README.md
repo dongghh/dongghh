@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="right">
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongghh%2Fhit-         counter&count_bg=%230E76CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)].(https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongghh%2Fhit-         counter&count_bg=%230E76CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)].(https://hits.seeyoufarm.com)
 </p>
 
 <p align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongghh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongghh)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## 👩🏻‍💻 Tech Stack 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ## :mailbox_with_mail: Contacts
 
-    [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
-    [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
 
 
