@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-the-badge&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-badge&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-the-badge&logo=MySql&logoColor=white"/>
 </p>
 
