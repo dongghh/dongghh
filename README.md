@@ -45,16 +45,10 @@ Here are some ideas to get you started:
 
 ## 🙋🏻‍♀️ Contact me
 
-<div align="center">
-    <a href="dong3405@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://instagram.com/dong_h_98)/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-    <a href="https://instagram.com/dong_h_98">
-        <img 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/dong_h_98/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-    
-</div>
+# :mailbox_with_mail: Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
+
+
+
