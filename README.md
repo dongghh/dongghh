@@ -23,21 +23,21 @@ Here are some ideas to get you started:
 ## 👩🏻‍💻 Tech Stack 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-the-badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-the-badge&logo=css3&logoColor=white"/>
     
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-the-badge&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-the-badge&logo=MySql&logoColor=white"/>
 </p>
 
 <p align="center">    
