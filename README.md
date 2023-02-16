@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-the-badge&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-the-badge&logo=css3&logoColor=white"/>  
 </p>
@@ -18,12 +18,13 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-the-badge&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/JSP-007396?style=flat-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-the-badge&logo=jQuery&logoColor=white"/>
 </p>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-the-badge&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-the-badge&logo=MySql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-the-badge&logo=MySQL&logoColor=white"/>
+
 </p>
 
 <p align="center">    
@@ -34,8 +35,8 @@
 
 ## ✔️ Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-the-badge&logo=Gmail&logoColor=white&link=mailto:dong3405@gmail.com)](mailto:dong3405@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-the-badge&logo=Naver&logoColor=white&link=mailto:dong3405@naver.com)](mailto:dong3405@naver.com)
     
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdongghh%2Fhit-counter&count_bg=%2367D514&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
